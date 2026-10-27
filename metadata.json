@@ -1,0 +1,6 @@
+{
+  "name": "HRMIS - Human Resource Portal",
+  "description": "Functional Blue and Black HRMIS Login, Sign-up, Contact, About, and comprehensive Human Resource Management Information System portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
